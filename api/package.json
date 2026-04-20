@@ -11,7 +11,7 @@
   "author": "Joshua Anderson Slate",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "crypto-promise": "^2.0.0",
     "jsonwebtoken": "^7.4.1",
     "kcors": "^2.2.1",
